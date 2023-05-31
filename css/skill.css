@@ -1,0 +1,51 @@
+* {
+	box-sizing: border-box;
+}
+html, body {
+	margin: 0 auto;
+	padding: 0;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	height: 100%;
+	background: linear-gradient(to bottom right, #003366 0%, #cc3399 100%);
+}
+.skill-group {
+	margin: 0 auto;
+	width: 70%;
+}
+.skill-group > p {
+	color: white
+}
+.skill-bar {
+	width: 100%;
+	background-color: white;
+}
+.skill-value {
+	text-align: right;
+	padding: 10px;
+	color: black;
+}
+.html {
+	width: 90%;
+	background-color: hsl(12, 100%, 50%);
+}
+.js {
+	width: 70%;
+	background-color: hsl(12, 100%, 50%);
+}
+.python {
+	width: 55%;
+	background-color: hsl(12, 100%, 50%);
+}
+.vba {
+	width: 70%;
+	background-color: hsl(12, 100%, 50%);
+}
+.office {
+	width: 70%;
+	background-color: hsl(12, 100%, 50%);
+}
+.acrobat {
+	width: 60%;
+	background-color: hsl(12, 100%, 50%);
+}
